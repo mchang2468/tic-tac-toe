@@ -1,1 +1,1 @@
-Welcome to the Tic-Tac-Toe game, which served as the final project in an introductory Python course that I taught!
+Welcome to the tic-tac-toe game, which served as the final project for an introductory Python course I taught!
